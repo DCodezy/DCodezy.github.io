@@ -74,9 +74,14 @@ li a:hover:not(.active) {
 }
 
 .custom > li > a:hover {
-    color: black;
+  color: black;
 }
 
 .navbar-nav>li >a:hover, .navbar-nav>li >a:focus, .navbar-nav>li >a:active{
-    background-color:black;
+  background-color:black;
+}
+
+.face-image {
+  max-width: 50%;
+  max-height: 50%;
 }
